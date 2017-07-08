@@ -1,4 +1,4 @@
-# Deployment instructions
+## Deployment instructions
 
 1. Clone the repository.
 2. Install gems with `bundle install`.
